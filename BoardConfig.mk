@@ -180,7 +180,7 @@ TARGET_PROVIDES_KEYMASTER := true
 
 # Lineage Hardware
 BOARD_HARDWARE_CLASS += \
-    $(DEVICE__PATH)/lineagehw
+    $(DEVICE_PATH)/lineagehw
 
 # Media
 TARGET_USES_MEDIA_EXTENSIONS := true
